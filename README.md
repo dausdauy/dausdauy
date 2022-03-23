@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Bagus!
-Currently learning flutter, because I love Flutter(https://flutter.dev).  
+Currently learning flutter, because I love [Flutter](https://pages.github.com/).  
 
 ### Tools:
 <p>
