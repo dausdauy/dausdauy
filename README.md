@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Bagus!
+# Hi there 👋 , I'm Daus!
 Currently learning flutter, because I love [Flutter](https://flutter.dev/).  
 
 ### Tools:
