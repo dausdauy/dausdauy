@@ -2,6 +2,7 @@
 
 currently focus on flutter 
 
-![Daus's GitHub stats](https://github-readme-stats.vercel.app/api?username=daaa&show_icons=true&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daaa&layout=compact&exclude_repo=github-readme-stats,daaa.github.io)
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=daaa&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaa&layout=compact" height=180 />
+</p>
