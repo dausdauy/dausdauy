@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm IT Support at [Longhi Group], but I love [Flutter](https://flutter.dev/).  
+I'm IT Support at [Longhi Group](https://longhi-group.com), but I love [Flutter](https://flutter.dev/).  
 
 ### Tools:
 <p>
@@ -13,4 +13,4 @@ I'm IT Support at [Longhi Group], but I love [Flutter](https://flutter.dev/).
 - 😄 Pronouns: He/Him </br>
 - ⚡ Fun fact: ... </br>
 
-[![Daus's Github Stats](https://github-readme-stats.vercel.app/api?username=daaa&count_private=true&theme=default&show_icons=true&include_all_commits=true)](https://github.com/dausdauy)
+[![Daus's Github Stats](https://github-readme-stats.vercel.app/api?username=daaa&count_private=true&theme=default&show_icons=true)](https://github.com/dausdauy)
