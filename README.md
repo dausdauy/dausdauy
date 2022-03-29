@@ -2,7 +2,7 @@
 I'm IT Support at [Longhi Group](https://longhi-group.com), but I'm interested with [Flutter](https://flutter.dev/).  
 
 - 🔭 I’m currently working as IT Support </br>
-- 🌱 I’m currently learning Flutter </br>
+- 🌱 I’m currently focus learning Flutter </br>
 - 👯 I’m looking to collaborate on Mobile Apps. </br>
 - 📫 How to reach me: <a href="mailto:dausgnzzz@gmail.com">Email me</a>  </br>
 - 😄 Pronouns: He/Him </br>
