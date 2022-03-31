@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm IT Support at [Longhi Group](https://longhi-group.com), but I'm interested with [Flutter](https://flutter.dev/).  
+I'm IT Support at [Longhi Group](https://longhi-group.com), but I'm interested in [Flutter](https://flutter.dev/) coding.  
 
 - 🔭 I’m currently working as IT Support </br>
 - 🌱 I’m currently focus learning Flutter </br>
