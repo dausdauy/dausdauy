@@ -1,5 +1,5 @@
 # Halo, perkenalkan nama saya Ahmad Firdaus.
-Saya IT Support di [Longhi Group](https://longhi-group.com), saya juga tertarik dengan [Flutter](https://flutter.dev/).  
+Enthusiastic with [Flutter](https://flutter.dev/) & [Asp dot net](https://dotnet.microsoft.com/en-us/apps/aspnet).  
 
 - Saya sangat suka dengan hal baru yang berbau teknologi. </br>
 
